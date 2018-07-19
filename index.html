@@ -7,25 +7,52 @@
 		<title>reveal.js</title>
 
 		<link rel="stylesheet" href="reveal.js-3.6.0/css/reveal.css">
-		<link rel="stylesheet" href="reveal.js-3.6.0/css/theme/black.css">
+		<link rel="stylesheet" href="reveal.js-3.6.0/css/theme/sky.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="reveal.js-3.6.0/lib/css/zenburn.css">
 
 		<!-- Printing and PDF exports -->
 		<script>
-			var link = document.createElement( 'link' );
+			var link = document.createElement('link');
 			link.rel = 'stylesheet';
 			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js-3.6.0/css/print/pdf.css' : 'reveal.js-3.6.0/css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
+			link.href = window.location.search.match(/print-pdf/gi) ? 'reveal.js-3.6.0/css/print/pdf.css' : 'reveal.js-3.6.0/css/print/paper.css';
+			document.getElementsByTagName('head')[0].appendChild(link);
 		</script>
 	</head>
+
 	<body>
 		<div class="reveal">
-			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+			<div class="slides" z-index="100">
+				<section>
+					<h2>lmm333's slices</h2>
+					<ul>
+						<li>
+							<a href="2014q1q2/">2014 Q1 Q2 review</a>
+						</li>
+						<li>
+							<a href="2014/">2014 review</a>
+						</li>
+						<li>
+							<a href="southeastasia/">Southeast Asia travel notes</a>
+						</li>
+					</ul>
+				</section>
+				<section>
+					<h2>明明如月的幻灯片</h2>
+					<ul>
+						<li>
+							<a href="2014q1q2/">2014上半年总结</a>
+						</li>
+						<li>
+							<a href="2014/">2014年终总结</a>
+						</li>
+						<li>
+							<a href="southeastasia/">东南亚旅游总结</a>
+						</li>
+					</ul>
+				</section>
 			</div>
 		</div>
 
@@ -37,13 +64,24 @@
 			// - https://github.com/hakimel/reveal.js#configuration
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
+				previewLinks: true,
 				dependencies: [
 					{ src: 'reveal.js-3.6.0/plugin/markdown/marked.js' },
 					{ src: 'reveal.js-3.6.0/plugin/markdown/markdown.js' },
 					{ src: 'reveal.js-3.6.0/plugin/notes/notes.js', async: true },
-					{ src: 'reveal.js-3.6.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+					{ src: 'reveal.js-3.6.0/plugin/highlight/highlight.js', async: true, callback: function () { hljs.initHighlightingOnLoad(); } }
 				]
 			});
 		</script>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-27089866-3"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() { dataLayer.push(arguments); }
+			gtag('js', new Date());
+			gtag('config', 'UA-27089866-3');
+		</script>
+		
 	</body>
 </html>
