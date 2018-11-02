@@ -7,7 +7,7 @@ Host lmm333's slice online, most slices run by reveal.js and image host on qiniu
 1. Copy base html files from /templete to new folder
 2. Update <title> , add .md files
 3. Publish to github
-4. [Optional] If want to preview md files locally, need to setup npm server, see **Preview md on localhost** below or see README.md file under /reveal.js-3.6.0 for more detail
+4. [Optional] If want to preview md files locally, need to setup npm server, see **Preview md on localhost** below or see README.md file under `reveal.js-3.6.0` for more detail
 
 ## reveal.js
 
@@ -15,13 +15,13 @@ A framework for easily creating beautiful presentations using HTML. [Check out t
 
 ## Preview Markdown on localhost
 1. Make sure finish Full setup first
-1. Copy .md and image files to /reveal.js-3.6.0 folder and update md file name in external_md.html
+1. Copy .md and image files to `reveal.js-3.6.0` folder and update md file name in external_md.html
 1. Serve the presentation and monitor source files for changes
    ```sh
    $ cd reveal.js-3.6.0
    $ npm start
    ```
-1. Open [](http://localhost:8000/external_md.html)
+1. Open `http://localhost:8000/external_md.html`
 
 ## Full setup
 
