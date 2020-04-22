@@ -68,3 +68,8 @@ Add image to md like below, use <!-- .element --> to control image size
 MIT licensed
 
 Copyright (C) 2018 lmm333, http://lmm333.com/
+
+## 注意
+- 相对路径插入图片，使用 ![](images/a.JPG)
+   - 注意images前面没有/ 否则会变成 lmm333.com/images/a.JPG 的绝对路径
+   - 注意照片要用JPG，不能小写，否则图片打不开

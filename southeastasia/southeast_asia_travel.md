@@ -22,55 +22,55 @@
 
 
 - 亚庇 Kota Kinabalu
--  ![](/images/qiniu-travel-180719slices-malaysia01.jpg) <!-- .element height="50%" width="50%" -->
+-  ![](images/qiniu-travel-180719slices-malaysia01.JPG) <!-- .element height="50%" width="50%" -->
 
 
-![](/images/qiniu-travel-180719slices-malaysia02.jpg) <!-- .element height="85%" width="85%" -->
+![](images/qiniu-travel-180719slices-malaysia02.JPG) <!-- .element height="85%" width="85%" -->
 
 
-![](/images/qiniu-travel-180719slices-malaysia03.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-malaysia03.JPG) <!-- .element height="90%" width="90%" -->
 
 
 - 水上清真寺
-- ![](/images/qiniu-travel-180719slices-malaysia04.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-malaysia04.JPG) <!-- .element height="90%" width="90%" -->
 
 
 - 信号山
-- ![](/images/qiniu-travel-180719slices-malaysia05.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-malaysia05.JPG) <!-- .element height="90%" width="90%" -->
 
 
 - 长尾猴，萤火虫
-- ![](/images/qiniu-travel-180719slices-malaysia06.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-malaysia06.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-malaysia07.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-malaysia07.JPG) <!-- .element height="90%" width="90%" -->
 
 
 - 马布岛诗巴丹度假村 mabul
-- ![](/images/qiniu-travel-180719slices-malaysia10.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-malaysia10.JPG) <!-- .element height="90%" width="90%" -->
 
 
 - 仙本那 军舰岛 SHEMPONA sibuan
-- ![](/images/qiniu-travel-180719slices-malaysia11.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-malaysia11.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-malaysia12.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-malaysia12.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-malaysia13.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-malaysia13.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-malaysia17.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-malaysia17.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-malaysia14.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-malaysia14.JPG) <!-- .element height="90%" width="90%" -->
 
 
 - 诗巴丹 sipadan
-- ![](/images/qiniu-travel-180719slices-malaysia15.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-malaysia15.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-malaysia16.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-malaysia16.JPG) <!-- .element height="90%" width="90%" -->
 
 
 # 总结
@@ -84,76 +84,76 @@
 - 2017/10/12-15
 
 
-![](/images/qiniu-travel-180719slices-singarpore01.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore01.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore02.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore03.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore03.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore04.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore04.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore05.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore05.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore06.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore06.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore07.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore07.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore08.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore08.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore09.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore09.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore10.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore10.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore11.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore11.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore12.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore12.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore21.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore21.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore22.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore22.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore23.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore23.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore24.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore24.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore25.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore25.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore26.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore26.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore27.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore27.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore28.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore28.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore29.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore29.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore30.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore30.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore31.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-singarpore31.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-singarpore32.jpg) <!-- .element height="50%" width="50%" -->
+![](images/qiniu-travel-180719slices-singarpore32.JPG) <!-- .element height="50%" width="50%" -->
 
 
 ### Comments
@@ -167,41 +167,41 @@
 - 2016-12-32~2017-01-05 普吉岛
 
 
-![](/images/qiniu-travel-180719slices-thailand15-01.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-thailand15-01.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-thailand15-02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-thailand15-02.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-thailand15-03.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-thailand15-03.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-thailand15-04.jpg) <!-- .element height="70%" width="70%" -->
+![](images/qiniu-travel-180719slices-thailand15-04.JPG) <!-- .element height="70%" width="70%" -->
 
 
-![](/images/qiniu-travel-180719slices-thailand15-05.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-thailand15-05.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-thailand15-06.jpg) <!-- .element height="50%" width="50%" -->
+![](images/qiniu-travel-180719slices-thailand15-06.JPG) <!-- .element height="50%" width="50%" -->
 
 
-![](/images/qiniu-travel-180719slices-thailand15-07.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-thailand15-07.JPG) <!-- .element height="90%" width="90%" -->
 
 
 - 普吉岛 Phuket
-- ![](/images/qiniu-travel-180719slices-thailand17-01.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-thailand17-01.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-thailand17-02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-thailand17-02.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-thailand17-03.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-thailand17-03.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-thailand17-04.jpg) <!-- .element height="50%" width="50%" -->
+![](images/qiniu-travel-180719slices-thailand17-04.JPG) <!-- .element height="50%" width="50%" -->
 
 
-![](/images/qiniu-travel-180719slices-thailand17-05.jpg) <!-- .element height="50%" width="50%" -->
+![](images/qiniu-travel-180719slices-thailand17-05.JPG) <!-- .element height="50%" width="50%" -->
 
 
 ### Comments
@@ -217,27 +217,27 @@
 
 
 - 胡志明市
-- ![](/images/qiniu-travel-180719slices-vietnam01.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-vietnam01.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-vietnam02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-vietnam02.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-vietnam03.jpg) <!-- .element height="50%" width="50%" -->
+![](images/qiniu-travel-180719slices-vietnam03.JPG) <!-- .element height="50%" width="50%" -->
 
 
 - 大叻 Dalet
-- ![](/images/qiniu-travel-180719slices-vietnam04.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-vietnam04.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-vietnam05.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-vietnam05.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-vietnam06.jpg) <!-- .element height="50%" width="50%" -->
+![](images/qiniu-travel-180719slices-vietnam06.JPG) <!-- .element height="50%" width="50%" -->
 
 
 - 芽庄
-- ![](/images/qiniu-travel-180719slices-vietnam07.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-vietnam07.JPG) <!-- .element height="90%" width="90%" -->
 
 
 ### Comments
@@ -250,19 +250,19 @@
 - 2016/10/03-07 长滩岛 Boracay
 
 
-![](/images/qiniu-travel-180719slices-philippines01.jpg) <!-- .element height="70%" width="70%" -->
+![](images/qiniu-travel-180719slices-philippines01.JPG) <!-- .element height="70%" width="70%" -->
 
 
-![](/images/qiniu-travel-180719slices-philippines02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-philippines02.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-philippines03.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-philippines03.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-philippines04.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-philippines04.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-philippines05.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-philippines05.JPG) <!-- .element height="90%" width="90%" -->
 
 
 ### Comments
@@ -274,49 +274,49 @@
 - 2017/01/29-2/2 暹粒，吴哥窟
 
 
-![](/images/qiniu-travel-180719slices-cambodia00.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia00.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia02.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia03.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia03.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia04.jpg) <!-- .element height="45%" width="45%" -->
+![](images/qiniu-travel-180719slices-cambodia04.JPG) <!-- .element height="45%" width="45%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia05.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia05.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia06.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia06.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia07.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia07.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia08.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia08.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia09.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia09.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia10.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia10.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia11.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia11.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia12.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia12.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia13.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia13.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia14.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia14.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-cambodia15.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-cambodia15.JPG) <!-- .element height="90%" width="90%" -->
 
 
 ### Comments
@@ -330,74 +330,74 @@
 
 
 - 蒲甘，三千佛塔，三千世界
-![](/images/qiniu-travel-180719slices-myanmar01.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar01.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar02.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar03.jpg) <!-- .element height="45%" width="45%" -->
+![](images/qiniu-travel-180719slices-myanmar03.JPG) <!-- .element height="45%" width="45%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar04.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar04.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar05.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar05.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar06.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar06.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar07.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar07.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar08.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar08.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar09.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar09.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar10.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar10.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar11.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar11.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![Fion](/images/qiniu-travel-180719slices-myanmar12.jpg) <!-- .element height="45%" width="45%" -->
+![Fion](/images/qiniu-travel-180719slices-myanmar12.JPG) <!-- .element height="45%" width="45%" -->
 
 
-![Myanmar13](/images/qiniu-travel-180719slices-myanmar13.jpg) <!-- .element height="90%" width="90%" -->
+![Myanmar13](/images/qiniu-travel-180719slices-myanmar13.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar14.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar14.JPG) <!-- .element height="90%" width="90%" -->
 
 
 - 曼德勒，王朝故都
-- ![](/images/qiniu-travel-180719slices-myanmar21.jpg) <!-- .element height="90%" width="90%" -->
+- ![](images/qiniu-travel-180719slices-myanmar21.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar22.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar22.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar23.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar23.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar24.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar24.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar25.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar25.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar26.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar26.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar27.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar27.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar28.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar28.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-myanmar29.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-myanmar29.JPG) <!-- .element height="90%" width="90%" -->
 
 
 ### Comments
@@ -411,46 +411,46 @@
 - 斯里巴加湾，沉船潜水
 
 
-![](/images/qiniu-travel-180719slices-brunei01.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei01.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei02.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei03.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei03.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei04.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei04.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei05.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei05.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei06.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei06.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei07.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei07.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei08.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei08.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei09.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei09.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei10.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei10.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei11.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei11.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei12.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei12.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei13.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei13.JPG) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/qiniu-travel-180719slices-brunei14.jpg) <!-- .element height="90%" width="90%" -->
+![](images/qiniu-travel-180719slices-brunei14.JPG) <!-- .element height="90%" width="90%" -->
 
 
 ### Comments
