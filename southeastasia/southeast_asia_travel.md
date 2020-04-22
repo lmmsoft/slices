@@ -463,34 +463,34 @@
 - 巴厘岛，日惹
 
 
-![](/images/Indonesia01.jpg) <!-- .element height="90%" width="90%" -->
+![](images/Indonesia01.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/Indonesia02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/Indonesia02.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/Indonesia03.jpg) <!-- .element height="90%" width="90%" -->
+![](images/Indonesia03.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/Indonesia04.jpg) <!-- .element height="90%" width="90%" -->
+![](images/Indonesia04.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/Indonesia05.jpg) <!-- .element height="90%" width="90%" -->
+![](images/Indonesia05.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/Indonesia06.jpg) <!-- .element height="90%" width="90%" -->
+![](images/Indonesia06.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/Indonesia07.jpg) <!-- .element height="90%" width="90%" -->
+![](images/Indonesia07.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/Indonesia08.jpg) <!-- .element height="90%" width="90%" -->
+![](images/Indonesia08.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/Indonesia09.jpg) <!-- .element height="90%" width="90%" -->
+![](images/Indonesia09.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/Indonesia10.jpg) <!-- .element height="90%" width="90%" -->
+![](images/Indonesia10.jpg) <!-- .element height="90%" width="90%" -->
 
 
 ### Comments
@@ -503,19 +503,19 @@
 - 帝力
 
 
-![](/images/timor01.jpg) <!-- .element height="90%" width="90%" -->
+![](images/timor01.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/timor02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/timor02.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/timor03.jpg) <!-- .element height="90%" width="90%" -->
+![](images/timor03.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/timor04.jpg) <!-- .element height="90%" width="90%" -->
+![](images/timor04.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/timor05.jpg) <!-- .element height="90%" width="90%" -->
+![](images/timor05.jpg) <!-- .element height="90%" width="90%" -->
 
 
 ### Comments
@@ -528,22 +528,22 @@
 - 磨丁，琅勃拉邦，万荣
 
 
-![](/images/laos01.jpg) <!-- .element height="90%" width="90%" -->
+![](images/laos01.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/laos02.jpg) <!-- .element height="90%" width="90%" -->
+![](images/laos02.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/laos03.jpg) <!-- .element height="90%" width="90%" -->
+![](images/laos03.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/laos04.jpg) <!-- .element height="90%" width="90%" -->
+![](images/laos04.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/laos05.jpg) <!-- .element height="90%" width="90%" -->
+![](images/laos05.jpg) <!-- .element height="90%" width="90%" -->
 
 
-![](/images/laos06.jpg) <!-- .element height="90%" width="90%" -->
+![](images/laos06.jpg) <!-- .element height="90%" width="90%" -->
 
 
 ## Comments
